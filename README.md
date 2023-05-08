@@ -1,4 +1,4 @@
-# Team3-FunctionalAnnotation
+# Team3-Functional Annotation
 
 ## Introduction
 Listeria monocytogenes is a food-borne pathogen that primarily afflicts immunocompromised individuals and can provoke septicemia, meningitis and fetal infection or abortion in infected pregnant women. In the last few years, several reported outbreaks and sporadic cases associated with consumption of contaminated meat and meat products with L. monocytogenes have increased in developing countries and USA. A latest one listed on FDA for Dole Salad. Here we propose a pipeline for the Functional annotation to predict virulence factors and pathogenicity.
